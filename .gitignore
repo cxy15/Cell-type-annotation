@@ -1,0 +1,28 @@
+# Local secrets — never commit (use .env.example as template)
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+
+# Large / local single-cell data (not versioned)
+*.h5ad
+.workflow_adata.h5ad
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.log
+
+# Tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/

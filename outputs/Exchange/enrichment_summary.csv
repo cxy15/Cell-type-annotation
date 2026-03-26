@@ -1,0 +1,21 @@
+"Cluster","Top1_Pathway","Top2_Pathway","Top3_Pathway","Top4_Pathway","Top5_Pathway"
+0,NA,NA,NA,NA,NA
+1,"chemotaxis","taxis","cell chemotaxis","leukocyte chemotaxis","myeloid leukocyte migration"
+2,"skin development","cell-substrate adhesion","integrin-mediated signaling pathway","skin epidermis development","positive regulation of miRNA transcription"
+3,"humoral immune response","lymphocyte mediated immunity","adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains","complement activation","immunoglobulin mediated immune response"
+4,"chromosome segregation","nuclear division","organelle fission","nuclear chromosome segregation","mitotic nuclear division"
+5,NA,NA,NA,NA,NA
+6,"defense response to bacterium","regulation of innate immune response","cell killing","positive regulation of response to biotic stimulus","reactive oxygen species metabolic process"
+7,"transforming growth factor beta receptor superfamily signaling pathway","cell surface receptor protein serine/threonine kinase signaling pathway","response to unfolded protein","response to topologically incorrect protein","temperature homeostasis"
+8,"ketone metabolic process","steroid biosynthetic process","steroid hormone biosynthetic process","endocrine hormone secretion","syncytium formation"
+9,"lymphocyte mediated immunity","leukocyte mediated immunity","leukocyte mediated cytotoxicity","cell killing","adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains"
+10,"wound healing","positive regulation of cell adhesion","cell-matrix adhesion","cell-substrate adhesion","actomyosin structure organization"
+11,"lymphocyte differentiation","alpha-beta T cell activation","leukocyte cell-cell adhesion","positive regulation of cell adhesion","antigen receptor-mediated signaling pathway"
+12,"oxidative phosphorylation","proton transmembrane transport","aerobic respiration","cellular respiration","energy derivation by oxidation of organic compounds"
+13,"positive regulation of cell adhesion","antigen processing and presentation","antigen processing and presentation of peptide antigen","positive regulation of cell-cell adhesion","positive regulation of cell activation"
+14,"defense response to bacterium","antimicrobial humoral response","humoral immune response","response to lipopolysaccharide","response to molecule of bacterial origin"
+15,"actomyosin structure organization","myofibril assembly","contractile actin filament bundle assembly","stress fiber assembly","cellular component assembly involved in morphogenesis"
+16,"reactive oxygen species metabolic process","response to toxic substance","homeostasis of number of cells","myeloid cell differentiation","hydrogen peroxide catabolic process"
+17,"positive regulation of cell activation","leukocyte cell-cell adhesion","positive regulation of cell adhesion","positive regulation of leukocyte cell-cell adhesion","positive regulation of cell-cell adhesion"
+18,NA,NA,NA,NA,NA
+19,"antigen processing and presentation","positive regulation of lymphocyte activation","positive regulation of leukocyte activation","positive regulation of cell activation","regulation of T cell activation"

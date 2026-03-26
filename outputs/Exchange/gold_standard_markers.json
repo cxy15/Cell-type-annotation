@@ -1,0 +1,441 @@
+{
+  "species": "human",
+  "per_cell_type": {
+    "Macrophage": {
+      "genes_requested": [
+        "CD68",
+        "CD14",
+        "CD163",
+        "CSF1R",
+        "ITGAM",
+        "FCGR3A",
+        "MRC1",
+        "LYZ",
+        "HLA-DR",
+        "CD86",
+        "CD80",
+        "IL1B",
+        "TNF",
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "SPP1",
+        "MARCO"
+      ],
+      "genes_in_matrix": [
+        "CD68",
+        "CD14",
+        "CD163",
+        "CSF1R",
+        "ITGAM",
+        "FCGR3A",
+        "MRC1",
+        "LYZ",
+        "IL1B",
+        "TNF",
+        "C1QA",
+        "C1QB",
+        "C1QC",
+        "SPP1"
+      ],
+      "geneset_name_slug": "Macrophage"
+    },
+    "Monocyte": {
+      "genes_requested": [
+        "CD14",
+        "CD68",
+        "CD163",
+        "FCGR3A",
+        "ITGAM",
+        "CSF1R",
+        "LYZ",
+        "HLA-DR",
+        "CCR2",
+        "SIRPA",
+        "CD64",
+        "CD11B",
+        "CD11C",
+        "CD33",
+        "CD86",
+        "MRC1"
+      ],
+      "genes_in_matrix": [
+        "CD14",
+        "CD68",
+        "CD163",
+        "FCGR3A",
+        "ITGAM",
+        "CSF1R",
+        "LYZ",
+        "MRC1"
+      ],
+      "geneset_name_slug": "Monocyte"
+    },
+    "Epithelial": {
+      "genes_requested": [
+        "EPCAM",
+        "KRT18",
+        "KRT19",
+        "CDH1",
+        "DSP",
+        "OCLN",
+        "CLDN3",
+        "CLDN4",
+        "KRT8",
+        "KRT7",
+        "MUC1",
+        "TJP1",
+        "PKP1",
+        "PKP2",
+        "DSC2",
+        "DSG2",
+        "EGFR",
+        "ERBB2"
+      ],
+      "genes_in_matrix": [],
+      "geneset_name_slug": "Epithelial"
+    },
+    "Proliferating": {
+      "genes_requested": [
+        "MKI67",
+        "PCNA",
+        "TOP2A",
+        "MCM2",
+        "MCM6",
+        "CCNB1",
+        "CCND1",
+        "CDK1",
+        "BIRC5",
+        "STMN1",
+        "TYMS",
+        "RRM2",
+        "ASPM",
+        "CENPF",
+        "UBE2C",
+        "AURKB",
+        "PLK1",
+        "CDC20"
+      ],
+      "genes_in_matrix": [
+        "MKI67",
+        "UBE2C"
+      ],
+      "geneset_name_slug": "Proliferating"
+    },
+    "Stressed": {
+      "genes_requested": [
+        "HSPA1A",
+        "HSPA1B",
+        "HSP90AA1",
+        "HSPB1",
+        "DNAJB1",
+        "HSPH1",
+        "ATF3",
+        "DDIT3",
+        "GADD45A",
+        "XBP1",
+        "HSPD1",
+        "HSPE1",
+        "HSP70",
+        "CHOP",
+        "TRIB3",
+        "SESN2",
+        "FDXR",
+        "EGR1"
+      ],
+      "genes_in_matrix": [
+        "HSPA1A",
+        "DDIT3",
+        "EGR1"
+      ],
+      "geneset_name_slug": "Stressed"
+    },
+    "Endothelial": {
+      "genes_requested": [
+        "PECAM1",
+        "CDH5",
+        "VWF",
+        "ENG",
+        "KDR",
+        "FLT1",
+        "ESAM",
+        "TIE1",
+        "TIE2",
+        "CLDN5",
+        "PLVAP",
+        "SELE",
+        "ICAM2",
+        "VCAM1",
+        "EPAS1",
+        "NOS3",
+        "ACKR1",
+        "STAB2"
+      ],
+      "genes_in_matrix": [
+        "PECAM1",
+        "VWF",
+        "KDR",
+        "FLT1",
+        "CLDN5",
+        "SELE",
+        "VCAM1",
+        "ACKR1"
+      ],
+      "geneset_name_slug": "Endothelial"
+    },
+    "Trophoblast": {
+      "genes_requested": [
+        "KRT7",
+        "TP63",
+        "EGFR",
+        "HLA-G",
+        "PSG1",
+        "CGB",
+        "SDC1",
+        "TFAP2C",
+        "GATA3",
+        "ERVFRD-1",
+        "PEG10",
+        "SPINT2",
+        "TACSTD2",
+        "MUC15",
+        "LGALS14",
+        "PRP8",
+        "HSD3B1",
+        "INHA"
+      ],
+      "genes_in_matrix": [
+        "HLA-G",
+        "PSG1",
+        "SDC1",
+        "ERVFRD-1",
+        "LGALS14"
+      ],
+      "geneset_name_slug": "Trophoblast"
+    },
+    "Neutrophil": {
+      "genes_requested": [
+        "CD66B",
+        "CD15",
+        "CD16",
+        "CD11B",
+        "CD33",
+        "ELANE",
+        "MPO",
+        "FCGR3B",
+        "CEACAM8",
+        "S100A8",
+        "S100A9",
+        "CXCR2",
+        "LYZ",
+        "AZU1",
+        "LCN2",
+        "DEFA4",
+        "PRTN3",
+        "CSF3R"
+      ],
+      "genes_in_matrix": [
+        "ELANE",
+        "MPO",
+        "FCGR3B",
+        "CEACAM8",
+        "S100A9",
+        "CXCR2",
+        "LYZ",
+        "AZU1",
+        "LCN2",
+        "DEFA4",
+        "PRTN3"
+      ],
+      "geneset_name_slug": "Neutrophil"
+    },
+    "SmoothMuscle": {
+      "genes_requested": [
+        "ACTA2",
+        "MYH11",
+        "TAGLN",
+        "CNN1",
+        "DES",
+        "CALD1",
+        "SM22A",
+        "LMOD1",
+        "MYLK",
+        "TPM1",
+        "VIM",
+        "PDGFRB",
+        "RGS5",
+        "NOTCH3",
+        "KCNMB1",
+        "CSPG4"
+      ],
+      "genes_in_matrix": [
+        "ACTA2",
+        "TAGLN",
+        "DES",
+        "MYLK",
+        "TPM1",
+        "VIM",
+        "PDGFRB"
+      ],
+      "geneset_name_slug": "SmoothMuscle"
+    },
+    "T": {
+      "genes_requested": [
+        "CD3D",
+        "CD3E",
+        "CD3G",
+        "TRAC",
+        "TRBC1",
+        "TRBC2",
+        "CD2",
+        "CD5",
+        "CD7",
+        "LCK",
+        "LAT",
+        "PTPRC",
+        "IL7R",
+        "TCF7",
+        "CD28",
+        "CTLA4",
+        "FOXP3",
+        "CD4",
+        "CD8A",
+        "CD8B"
+      ],
+      "genes_in_matrix": [
+        "TRBC1",
+        "TRBC2",
+        "CD7",
+        "LAT",
+        "PTPRC",
+        "IL7R"
+      ],
+      "geneset_name_slug": "T"
+    },
+    "Erythroid": {
+      "genes_requested": [
+        "HBB",
+        "HBA1",
+        "HBA2",
+        "GYPA",
+        "KLF1",
+        "ALAS2",
+        "SPTA1",
+        "SPTB",
+        "EPB42",
+        "AHSP",
+        "TFRC",
+        "GYPB",
+        "SLC4A1",
+        "ANK1",
+        "RHAG",
+        "BCL11A"
+      ],
+      "genes_in_matrix": [
+        "HBB",
+        "HBA1",
+        "HBA2",
+        "GYPA",
+        "ALAS2",
+        "AHSP",
+        "SLC4A1",
+        "RHAG"
+      ],
+      "geneset_name_slug": "Erythroid"
+    },
+    "B": {
+      "genes_requested": [
+        "CD19",
+        "CD20",
+        "MS4A1",
+        "CD79A",
+        "CD79B",
+        "BLK",
+        "BANK1",
+        "FCRL1",
+        "PAX5",
+        "EBF1",
+        "CD22",
+        "IGHM",
+        "IGLL1",
+        "VPREB1",
+        "TCL1A",
+        "CR2",
+        "FCER2",
+        "BTK"
+      ],
+      "genes_in_matrix": [
+        "MS4A1",
+        "CD79A",
+        "IGHM"
+      ],
+      "geneset_name_slug": "B"
+    },
+    "NK": {
+      "genes_requested": [
+        "NCAM1",
+        "NCR1",
+        "KLRD1",
+        "KLRC1",
+        "CD244",
+        "FCGR3A",
+        "GNLY",
+        "PRF1",
+        "GZMB",
+        "KLRB1",
+        "CD94",
+        "NKG7",
+        "TBX21",
+        "EOMES",
+        "CD160",
+        "KIR2DL1",
+        "KIR3DL1",
+        "XCL1"
+      ],
+      "genes_in_matrix": [
+        "NCR1",
+        "KLRD1",
+        "KLRC1",
+        "FCGR3A",
+        "GNLY",
+        "PRF1",
+        "GZMB",
+        "KLRB1",
+        "NKG7",
+        "KIR2DL1",
+        "XCL1"
+      ],
+      "geneset_name_slug": "NK"
+    },
+    "Dendritic": {
+      "genes_requested": [
+        "CD1C",
+        "CLEC9A",
+        "FLT3",
+        "HLA-DRA",
+        "ITGAX",
+        "LILRA4",
+        "XCR1",
+        "CCR7",
+        "CD207",
+        "FCER1A",
+        "IRF8",
+        "BATF3",
+        "ZBTB46",
+        "CD141",
+        "CD11C",
+        "SIRPA",
+        "TLR3",
+        "IDO1"
+      ],
+      "genes_in_matrix": [
+        "CLEC9A",
+        "HLA-DRA",
+        "ITGAX",
+        "CCR7",
+        "IDO1"
+      ],
+      "geneset_name_slug": "Dendritic"
+    }
+  }
+}

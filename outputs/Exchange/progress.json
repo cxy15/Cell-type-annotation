@@ -1,0 +1,14 @@
+{
+  "step": 5,
+  "status": "done",
+  "markers_csv": "/Users/cxy023/Desktop/Celltype-annotation/outputs/Exchange/all_markers.csv",
+  "working_adata": "/Users/cxy023/Desktop/Celltype-annotation/outputs/.workflow_adata.h5ad",
+  "enrichment_csv": "/Users/cxy023/Desktop/Celltype-annotation/outputs/Exchange/enrichment_summary.csv",
+  "llm_annotation": "/Users/cxy023/Desktop/Celltype-annotation/outputs/Exchange/llm_annotation.json",
+  "figures": {
+    "umap": "/Users/cxy023/Desktop/Celltype-annotation/outputs/figures/umap_celltype.png"
+  },
+  "gold_standard_markers": "/Users/cxy023/Desktop/Celltype-annotation/outputs/Exchange/gold_standard_markers.json",
+  "aucell_verification_csv": "/Users/cxy023/Desktop/Celltype-annotation/outputs/Exchange/aucell_verification.csv",
+  "final_h5ad": "/Users/cxy023/Desktop/Celltype-annotation/outputs/SC_annotated.h5ad"
+}
